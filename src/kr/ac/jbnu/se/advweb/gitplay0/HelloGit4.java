@@ -6,6 +6,6 @@ public class HelloGit4 {
 		System.out.println("Hello Git!!");
 		// this code is edited in github web site!
 		// how are you doing??
-		// Modified by HongJG
+		// Modified by HongJGs
 	}
 }
