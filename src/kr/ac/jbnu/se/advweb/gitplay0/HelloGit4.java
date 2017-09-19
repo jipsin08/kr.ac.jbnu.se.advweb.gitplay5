@@ -7,5 +7,7 @@ public class HelloGit4 {
 		// this code is edited in github web site!
 		// how are you doing??
 		// Modified by HongJGs
+		
+		// I recommend HongJG for our team's leader!
 	}
 }
