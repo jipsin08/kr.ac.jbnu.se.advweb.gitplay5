@@ -12,6 +12,7 @@ public class HelloGit {
 		for(int i = 0;i < 100; i++)
 		{
 			System.out.println("i:" + i);
+			System.out.println("아아아아아악");
 		}
 		
 		// I added the following part.
